@@ -3,6 +3,6 @@
 $db = "kuliah";
 $host = "localhost";
 $user = "root";
-$pass = "bayu2505";
+$pass = "";
 
 $get_conn = mysqli_connect($host, $user, $pass, $db) or die("Gagal konek ke database");
