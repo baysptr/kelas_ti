@@ -1,8 +1,8 @@
-#Selamat datang
-#di kelas tambahan
-#pemrgraman web
+# Selamat datang
+# di kelas tambahan
+# pemrgraman web
 
-###dikelas ini dimohon setiap peserta untuk mengisi pengayaan untuk mengukur tingkat kepemahaman peserta. yang nanti dijadikan sebagai indikator tingkat keberhasilan kelas ini.
+### dikelas ini dimohon setiap peserta untuk mengisi pengayaan untuk mengukur tingkat kepemahaman peserta. yang nanti dijadikan sebagai indikator tingkat keberhasilan kelas ini.
 
 perhatikan untuk merunning web. <br/>
 
